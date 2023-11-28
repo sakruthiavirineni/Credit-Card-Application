@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CARDS>
+    <CARD>
+        <CardNumber>5567894523129089</CardNumber>
+        <ExpirationDate>08/26</ExpirationDate>
+        <NameOfCardholder>John DoE</NameOfCardholder>
+    </CARD>
+    <CARD>
+        <CardNumber>59012345678901234567890</CardNumber>
+        <ExpirationDate>10/24</ExpirationDate>
+        <NameOfCardholder>Lisa Claire</NameOfCardholder>
+    </CARD>
+    <CARD>
+        <CardNumber>4123456789123</CardNumber>
+        <ExpirationDate>04/26</ExpirationDate>
+        <NameOfCardholder>Martha Clark</NameOfCardholder>
+    </CARD>
+    <CARD>
+        <CardNumber>347856341908126</CardNumber>
+        <ExpirationDate>03/23</ExpirationDate>
+        <NameOfCardholder>Jane S. Dayton</NameOfCardholder>
+    </CARD>
+    <CARD>
+        <CardNumber>6011111100007756</CardNumber>
+        <ExpirationDate>02/24</ExpirationDate>
+        <NameOfCardholder>John Doe</NameOfCardholder>
+    </CARD>
+    <CARD>
+        <CardNumber>3601112345678789</CardNumber>
+        <ExpirationDate>06/24</ExpirationDate>
+        <NameOfCardholder>Lara Wayne</NameOfCardholder>
+    </CARD>
+    <CARD>
+        <CardNumber>5167894523129089</CardNumber>
+        <ExpirationDate>08/26</ExpirationDate>
+        <NameOfCardholder>John Doe</NameOfCardholder>
+    </CARD>
+    <CARD>
+        <CardNumber>4123456789123999</CardNumber>
+        <ExpirationDate>03/23</ExpirationDate>
+        <NameOfCardholder>Jane Dayton</NameOfCardholder>
+    </CARD>
+    <CARD>
+        <CardNumber>377856341908126</CardNumber>
+        <ExpirationDate>03/25</ExpirationDate>
+        <NameOfCardholder>Martha Clark</NameOfCardholder>
+    </CARD>
+    <CARD>
+        <CardNumber>5367894523129089</CardNumber>
+        <ExpirationDate>08/25</ExpirationDate>
+        <NameOfCardholder>John Doe</NameOfCardholder>
+    </CARD>
+    <CARD>
+        <CardNumber>6011*890HJrt6789</CardNumber>
+        <ExpirationDate>05/25</ExpirationDate>
+        <NameOfCardholder>Jill Davis</NameOfCardholder>
+    </CARD>
+    <CARD>
+        <CardNumber></CardNumber>
+        <ExpirationDate>08/26</ExpirationDate>
+        <NameOfCardholder>John Doe</NameOfCardholder>
+    </CARD>
+</CARDS>
